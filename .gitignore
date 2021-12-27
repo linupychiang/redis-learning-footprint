@@ -1,0 +1,16 @@
+### Example user template template
+### Example user template
+
+
+site
+
+.vscode
+.idea
+*.iml
+out
+gen
+### Redis template
+# Ignore redis binary dump (dump.rdb) files
+
+*.rdb
+
