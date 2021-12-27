@@ -1,1 +1,11 @@
-site_name: My Docs
+site_name: RedisLearningFootprint
+site_description: redis 学习足迹
+site_author: linupy
+site_url: http://127.0.0.1:8000/
+nav:
+    - Home: index.md
+    - Doc:
+      - advanced:
+        - advanced/type-String.md
+    - About: about.md
+theme: material
