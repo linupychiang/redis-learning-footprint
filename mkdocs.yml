@@ -6,7 +6,9 @@ site_url: http://127.0.0.1:8000/
 nav:
     - Home: index.md
     - Doc:
+      - basic:
+        - basic/operate_String.md
       - advanced:
-        - advanced/type-String.md
+        - advanced/type_String.md
     - About: about.md
 theme: material

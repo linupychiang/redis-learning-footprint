@@ -1,4 +1,3 @@
-# type-String
 
 ## String 类型内存消耗问题
 
